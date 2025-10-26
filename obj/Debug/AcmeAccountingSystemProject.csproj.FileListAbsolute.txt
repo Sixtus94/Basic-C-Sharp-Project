@@ -1,0 +1,7 @@
+C:\Users\sixte\source\repos\AcmeAccountingSystemProject\obj\Debug\AcmeAccountingSystemProject.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\AcmeAccountingSystemProject\obj\Debug\AcmeAccountingSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\AcmeAccountingSystemProject\bin\Debug\AcmeAccountingSystemProject.exe.config
+C:\Users\sixte\source\repos\AcmeAccountingSystemProject\bin\Debug\AcmeAccountingSystemProject.exe
+C:\Users\sixte\source\repos\AcmeAccountingSystemProject\bin\Debug\AcmeAccountingSystemProject.pdb
+C:\Users\sixte\source\repos\AcmeAccountingSystemProject\obj\Debug\AcmeAccountingSystemProject.exe
+C:\Users\sixte\source\repos\AcmeAccountingSystemProject\obj\Debug\AcmeAccountingSystemProject.pdb
