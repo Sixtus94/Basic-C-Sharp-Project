@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\AnonymousOperatorAssignment\bin\Debug\AnonymousOperatorAssignment.exe.config
+C:\Users\sixte\source\repos\AnonymousOperatorAssignment\bin\Debug\AnonymousOperatorAssignment.exe
+C:\Users\sixte\source\repos\AnonymousOperatorAssignment\bin\Debug\AnonymousOperatorAssignment.pdb
+C:\Users\sixte\source\repos\AnonymousOperatorAssignment\obj\Debug\AnonymousOperatorAssignment.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\AnonymousOperatorAssignment\obj\Debug\AnonymousOperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\AnonymousOperatorAssignment\obj\Debug\AnonymousOperatorAssignment.exe
+C:\Users\sixte\source\repos\AnonymousOperatorAssignment\obj\Debug\AnonymousOperatorAssignment.pdb
+C:\Users\sixte\source\repos\AnonymousOperatorAssignment\obj\Debug\AnonymousOperatorAssignment.exe.config

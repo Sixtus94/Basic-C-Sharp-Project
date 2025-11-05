@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\MathsOperation\bin\Debug\MathsOperation.exe.config
+C:\Users\sixte\source\repos\MathsOperation\bin\Debug\MathsOperation.exe
+C:\Users\sixte\source\repos\MathsOperation\bin\Debug\MathsOperation.pdb
+C:\Users\sixte\source\repos\MathsOperation\obj\Debug\MathsOperation.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MathsOperation\obj\Debug\MathsOperation.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MathsOperation\obj\Debug\MathsOperation.exe
+C:\Users\sixte\source\repos\MathsOperation\obj\Debug\MathsOperation.pdb
+C:\Users\sixte\source\repos\MathsOperation\obj\Debug\MathsOperation.exe.config

@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\MathsAndComparisonOperators\bin\Debug\MathsAndComparisonOperators.exe.config
+C:\Users\sixte\source\repos\MathsAndComparisonOperators\bin\Debug\MathsAndComparisonOperators.exe
+C:\Users\sixte\source\repos\MathsAndComparisonOperators\bin\Debug\MathsAndComparisonOperators.pdb
+C:\Users\sixte\source\repos\MathsAndComparisonOperators\obj\Debug\MathsAndComparisonOperators.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MathsAndComparisonOperators\obj\Debug\MathsAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MathsAndComparisonOperators\obj\Debug\MathsAndComparisonOperators.exe
+C:\Users\sixte\source\repos\MathsAndComparisonOperators\obj\Debug\MathsAndComparisonOperators.pdb
+C:\Users\sixte\source\repos\MathsAndComparisonOperators\obj\Debug\MathsAndComparisonOperators.exe.config

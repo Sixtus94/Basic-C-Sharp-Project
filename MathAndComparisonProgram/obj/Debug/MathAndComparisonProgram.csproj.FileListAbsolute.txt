@@ -1,0 +1,7 @@
+C:\Users\sixte\source\repos\MathAndComparisonProgram\obj\Debug\MathAndComparisonProgram.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MathAndComparisonProgram\obj\Debug\MathAndComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MathAndComparisonProgram\bin\Debug\MathAndComparisonProgram.exe.config
+C:\Users\sixte\source\repos\MathAndComparisonProgram\bin\Debug\MathAndComparisonProgram.exe
+C:\Users\sixte\source\repos\MathAndComparisonProgram\bin\Debug\MathAndComparisonProgram.pdb
+C:\Users\sixte\source\repos\MathAndComparisonProgram\obj\Debug\MathAndComparisonProgram.exe
+C:\Users\sixte\source\repos\MathAndComparisonProgram\obj\Debug\MathAndComparisonProgram.pdb
