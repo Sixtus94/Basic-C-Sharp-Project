@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\TernaryOperator\bin\Debug\TernaryOperator.exe.config
+C:\Users\sixte\source\repos\TernaryOperator\bin\Debug\TernaryOperator.exe
+C:\Users\sixte\source\repos\TernaryOperator\bin\Debug\TernaryOperator.pdb
+C:\Users\sixte\source\repos\TernaryOperator\obj\Debug\TernaryOperator.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\TernaryOperator\obj\Debug\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\TernaryOperator\obj\Debug\TernaryOperator.exe
+C:\Users\sixte\source\repos\TernaryOperator\obj\Debug\TernaryOperator.pdb
+C:\Users\sixte\source\repos\TernaryOperator\obj\Debug\TernaryOperator.exe.config
