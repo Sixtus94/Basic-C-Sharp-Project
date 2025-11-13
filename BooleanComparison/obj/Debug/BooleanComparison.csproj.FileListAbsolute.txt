@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\BooleanComparison\bin\Debug\BooleanComparison.exe.config
+C:\Users\sixte\source\repos\BooleanComparison\bin\Debug\BooleanComparison.exe
+C:\Users\sixte\source\repos\BooleanComparison\bin\Debug\BooleanComparison.pdb
+C:\Users\sixte\source\repos\BooleanComparison\obj\Debug\BooleanComparison.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\BooleanComparison\obj\Debug\BooleanComparison.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\BooleanComparison\obj\Debug\BooleanComparison.exe
+C:\Users\sixte\source\repos\BooleanComparison\obj\Debug\BooleanComparison.pdb
+C:\Users\sixte\source\repos\BooleanComparison\obj\Debug\BooleanComparison.exe.config
