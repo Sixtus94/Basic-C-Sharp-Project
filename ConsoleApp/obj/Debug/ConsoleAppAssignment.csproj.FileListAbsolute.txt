@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe.config
+C:\Users\sixte\source\repos\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.exe
+C:\Users\sixte\source\repos\ConsoleAppAssignment\bin\Debug\ConsoleAppAssignment.pdb
+C:\Users\sixte\source\repos\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe
+C:\Users\sixte\source\repos\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.pdb
+C:\Users\sixte\source\repos\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.exe.config
