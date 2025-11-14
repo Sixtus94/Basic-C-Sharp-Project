@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\StringsFunction\bin\Debug\StringsFunction.exe.config
+C:\Users\sixte\source\repos\StringsFunction\bin\Debug\StringsFunction.exe
+C:\Users\sixte\source\repos\StringsFunction\bin\Debug\StringsFunction.pdb
+C:\Users\sixte\source\repos\StringsFunction\obj\Debug\StringsFunction.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\StringsFunction\obj\Debug\StringsFunction.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\StringsFunction\obj\Debug\StringsFunction.exe
+C:\Users\sixte\source\repos\StringsFunction\obj\Debug\StringsFunction.pdb
+C:\Users\sixte\source\repos\StringsFunction\obj\Debug\StringsFunction.exe.config
