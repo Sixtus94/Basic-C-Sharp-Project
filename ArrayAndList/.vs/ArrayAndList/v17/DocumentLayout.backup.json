@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sixte\\source\\repos\\ArrayAndList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5ECF100-6132-438C-B1E6-B635AA96A433}|ArrayAndList.csproj|c:\\users\\sixte\\source\\repos\\arrayandlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5ECF100-6132-438C-B1E6-B635AA96A433}|ArrayAndList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC1407F-0BF4-4827-8D94-96E97FBF5838}|..\\ConsoleAppArraysAndList\\ConsoleAppArraysAndList.csproj|c:\\users\\sixte\\source\\repos\\consoleapparraysandlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sixte\\source\\repos\\ConsoleAppArraysAndList\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleAppArraysAndList\\Program.cs",
+              "ToolTip": "C:\\Users\\sixte\\source\\repos\\ConsoleAppArraysAndList\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleAppArraysAndList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T15:49:40.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sixte\\source\\repos\\ArrayAndList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sixte\\source\\repos\\ArrayAndList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwFUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T19:20:34.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
