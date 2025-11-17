@@ -6,3 +6,8 @@ C:\Users\sixte\source\repos\ConsoleAppArraysAndList\obj\Debug\ConsoleAppArraysAn
 C:\Users\sixte\source\repos\ConsoleAppArraysAndList\obj\Debug\ConsoleAppArraysAndList.exe
 C:\Users\sixte\source\repos\ConsoleAppArraysAndList\obj\Debug\ConsoleAppArraysAndList.pdb
 C:\Users\sixte\source\repos\ConsoleAppArraysAndList\obj\Debug\ConsoleAppArraysAndList.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ConsoleAppArraysAndList\obj\Debug\ConsoleAppArraysAndList.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ConsoleAppArraysAndList\obj\Debug\ConsoleAppArraysAndList.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ConsoleAppArraysAndList\obj\Debug\ConsoleAppArraysAndList.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ConsoleAppArraysAndList\obj\Debug\ConsoleAppArraysAndList.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ConsoleAppArraysAndList\obj\Debug\ConsoleAppArraysAndList.pdb
