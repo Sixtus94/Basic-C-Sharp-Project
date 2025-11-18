@@ -11,8 +11,8 @@ namespace StringsFunction
         static void Main(string[] args)
         {   
             //concatenate first and second name
-            string firstName = "John ";
-            string lastName = "Doe";
+            string firstName = "Lucky ";
+            string lastName = "Star";
             string name = string.Concat(firstName, lastName);
             Console.WriteLine(name);
 
