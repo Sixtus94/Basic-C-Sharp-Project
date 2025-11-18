@@ -1,0 +1,7 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ArrayAndList1\bin\Debug\ArrayAndList1.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ArrayAndList1\bin\Debug\ArrayAndList1.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ArrayAndList1\bin\Debug\ArrayAndList1.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ArrayAndList1\obj\Debug\ArrayAndList1.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ArrayAndList1\obj\Debug\ArrayAndList1.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ArrayAndList1\obj\Debug\ArrayAndList1.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ArrayAndList1\obj\Debug\ArrayAndList1.pdb
