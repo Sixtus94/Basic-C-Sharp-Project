@@ -1,0 +1,7 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\Iterations\Iterations\obj\Debug\Iterations.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\Iterations\Iterations\obj\Debug\Iterations.pdb
