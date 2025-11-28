@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\CallingMethod\CallingMethod\bin\Debug\CallingMethod.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\CallingMethod\CallingMethod\bin\Debug\CallingMethod.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\CallingMethod\CallingMethod\obj\Debug\CallingMethod.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\CallingMethod\CallingMethod\obj\Debug\CallingMethod.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\CallingMethod\CallingMethod\obj\Debug\CallingMethod.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\CallingMethod\CallingMethod\obj\Debug\CallingMethod.exe.config
