@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MathConsoleApp\MathConsoleApp\bin\Debug\MathConsoleApp.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MathConsoleApp\MathConsoleApp\bin\Debug\MathConsoleApp.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MathConsoleApp\MathConsoleApp\bin\Debug\MathConsoleApp.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.exe.config
