@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAssignmt\MethodAssignmt\bin\Debug\MethodAssignmt.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAssignmt\MethodAssignmt\bin\Debug\MethodAssignmt.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAssignmt\MethodAssignmt\bin\Debug\MethodAssignmt.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAssignmt\MethodAssignmt\obj\Debug\MethodAssignmt.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAssignmt\MethodAssignmt\obj\Debug\MethodAssignmt.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAssignmt\MethodAssignmt\obj\Debug\MethodAssignmt.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAssignmt\MethodAssignmt\obj\Debug\MethodAssignmt.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAssignmt\MethodAssignmt\obj\Debug\MethodAssignmt.exe.config
