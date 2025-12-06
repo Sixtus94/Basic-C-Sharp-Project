@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAndObjectAssignment\MethodAndObjectAssignment\bin\Debug\MethodAndObjectAssignment.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAndObjectAssignment\MethodAndObjectAssignment\bin\Debug\MethodAndObjectAssignment.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAndObjectAssignment\MethodAndObjectAssignment\bin\Debug\MethodAndObjectAssignment.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAndObjectAssignment\MethodAndObjectAssignment\obj\Debug\MethodAndObjectAssignment.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAndObjectAssignment\MethodAndObjectAssignment\obj\Debug\MethodAndObjectAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAndObjectAssignment\MethodAndObjectAssignment\obj\Debug\MethodAndObjectAssignment.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAndObjectAssignment\MethodAndObjectAssignment\obj\Debug\MethodAndObjectAssignment.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\MethodAndObjectAssignment\MethodAndObjectAssignment\obj\Debug\MethodAndObjectAssignment.exe.config
