@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\OperatorAssgmntTwo\OperatorAssgmntTwo\obj\Debug\OperatorAssgmntTwo.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\OperatorAssgmntTwo\OperatorAssgmntTwo\obj\Debug\OperatorAssgmntTwo.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\OperatorAssgmntTwo\OperatorAssgmntTwo\bin\Debug\OperatorAssgmntTwo.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\OperatorAssgmntTwo\OperatorAssgmntTwo\bin\Debug\OperatorAssgmntTwo.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\OperatorAssgmntTwo\OperatorAssgmntTwo\bin\Debug\OperatorAssgmntTwo.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\OperatorAssgmntTwo\OperatorAssgmntTwo\obj\Debug\OperatorAssgmntTwo.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\OperatorAssgmntTwo\OperatorAssgmntTwo\obj\Debug\OperatorAssgmntTwo.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\OperatorAssgmntTwo\OperatorAssgmntTwo\obj\Debug\OperatorAssgmntTwo.exe.config
