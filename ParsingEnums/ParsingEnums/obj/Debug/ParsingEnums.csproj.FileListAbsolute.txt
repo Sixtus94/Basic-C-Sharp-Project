@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.exe.config
