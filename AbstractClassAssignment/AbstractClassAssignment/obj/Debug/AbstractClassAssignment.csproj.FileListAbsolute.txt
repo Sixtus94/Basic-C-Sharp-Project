@@ -1,0 +1,7 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
