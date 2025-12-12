@@ -1,0 +1,7 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\UberRide\UberRide\bin\Debug\UberRide.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\UberRide\UberRide\bin\Debug\UberRide.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\UberRide\UberRide\bin\Debug\UberRide.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\UberRide\UberRide\obj\Debug\UberRide.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\UberRide\UberRide\obj\Debug\UberRide.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\UberRide\UberRide\obj\Debug\UberRide.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\UberRide\UberRide\obj\Debug\UberRide.pdb
