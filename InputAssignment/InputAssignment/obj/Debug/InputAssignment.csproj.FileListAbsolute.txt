@@ -1,0 +1,8 @@
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe.config
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\InputAssignment\InputAssignment\bin\Debug\InputAssignment.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\InputAssignment\InputAssignment\bin\Debug\InputAssignment.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.AssemblyReference.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\InputAssignment\InputAssignment\obj\Debug\InputAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\InputAssignment\InputAssignment\obj\Debug\InputAssignment.pdb
+C:\Users\sixte\source\repos\MyProjects\Basic-C-Sharp-Project\InputAssignment\InputAssignment\obj\Debug\InputAssignment.exe.config
