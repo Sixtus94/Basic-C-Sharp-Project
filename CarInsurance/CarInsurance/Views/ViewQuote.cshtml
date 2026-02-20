@@ -1,0 +1,64 @@
+﻿<!-- Views/Quote/Calculate.cshtml -->
+@model CarInsurance.Controllers.InsureeController
+@{
+    ViewBag.Title = "Calculate Your Quote";
+}
+
+<h2>Calculate Your Quote</h2>
+
+<h3>Insuree Information</h3>
+<p>Name: @Model.FullName</p>
+<p>Car: @Model.CarDescription</p>
+<p>Base Quote: @Model.BaseQuote.ToString("C")</p>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.HiddenFor(model => model.InsureeId)
+
+    <h4>Choose Add-Ons</h4>
+    @for (int i = 0; i < Model.AvailableAddOns.Count; i++)
+    {
+        <div>
+            @Html.CheckBoxFor(m => m.AvailableAddOns[i].IsSelected)
+            @Html.LabelFor(m => m.AvailableAddOns[i].IsSelected, Model.AvailableAddOns[i].Name)
+            <span>(@Model.AvailableAddOns[i].Cost.ToString("C")) - @Model.AvailableAddOns[i].Description</span>
+            @Html.HiddenFor(m => m.AvailableAddOns[i].Id)
+            @Html.HiddenFor(m => m.AvailableAddOns[i].Name)
+            @Html.HiddenFor(m => m.AvailableAddOns[i].Cost)
+        </div>
+    }
+
+    <hr />
+    <p>Current Total Quote: <span id="finalQuote">@Model.FinalQuote.ToString("C")</span></p>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Finalize Quote" class="btn btn-default" />
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to Insuree Details", "Details", "Insuree", new { id = Model.InsureeId }, null)
+</div>
+
+@section scripts {
+    <script>
+            $(document).ready(function () {
+                // Basic client-side calculation for demonstration
+                $('input[type="checkbox"]').change(function () {
+                    var baseQuote = @Model.BaseQuote;
+                    var currentTotal = baseQuote;
+
+                    $('input[type="checkbox"]:checked').each(function () {
+                        var addonCost = parseFloat($(this).siblings('input[type="hidden"][name$=".Cost"]').val());
+                        currentTotal += addonCost;
+                    });
+
+                    $('#finalQuote').text(currentTotal.toLocaleString('en-US', { style: 'currency', currency: 'USD' }));
+                });
+            });
+    </script>
+}
+
